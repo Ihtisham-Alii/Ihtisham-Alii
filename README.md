@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ihtisham-Alii
-- 👀 I’m interested in learning c++
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Computer Sciences
+- 🌱 I’m currently learning c++ and other programming languages
 - 💞️ I’m looking to collaborate on concept building and enhancing coding skills
 
 
