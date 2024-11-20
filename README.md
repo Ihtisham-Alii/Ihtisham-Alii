@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ihtisham-Alii
-- 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning c++ and other programming languages
-- 💞️ I’m looking to collaborate on concept building and enhancing coding skills
+- 👋 Hi, I’m Ihtisham Ali from Pakistan. I am doing a BSCS at FAST NUCES Islamabad.
+- 👀 I love how technology evolves and helps the world become a better place.
+- 🌱 I am familiar with C++, Python, Java, Assembly Language, SQL, and many other Computer Science tools.
+- 💞️ I intend to showcase my work here and learn from the GitHub community.
 
 
 <!---
